@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="512" height="512" role="img" aria-label="CyberLab">
+<circle cx="50" cy="50" r="44" fill="none" stroke="#12233d" stroke-width="14"/>
+<path d="M50 6 A44 44 0 0 1 94 50" fill="none" stroke="#4a8fa6" stroke-width="14"/>
+<path d="M50 50 m-26 0 a26 26 0 1 1 18.4 24.9" fill="none" stroke="#12233d" stroke-width="10" stroke-linecap="round"/>
+<path d="M50 50 m26 0 a26 26 0 0 1 -7.6 18.4" fill="none" stroke="#4a8fa6" stroke-width="10" stroke-linecap="round"/>
+<line x1="50" y1="6" x2="50" y2="94" stroke="#0A1220" stroke-width="3"/>
+</svg>

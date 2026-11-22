@@ -1,0 +1,8 @@
+{
+  "name": "cyberlab",
+  "version": "1.0.0",
+  "description": "CyberLab, académie francophone de cybersécurité",
+  "main": "server.js",
+  "scripts": { "start": "node --disable-warning=ExperimentalWarning server.js" },
+  "engines": { "node": ">=22.13.0" }
+}
